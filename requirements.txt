@@ -1,0 +1,5 @@
+cocotb
+pyzmq
+openai
+tiktoken
+langchain_core
