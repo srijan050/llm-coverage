@@ -1,6 +1,3 @@
-<img width="213" alt="image" src="https://github.com/user-attachments/assets/2675a383-3c10-471a-a062-bc18ad4efeef" />
-
-
 # LLM-Coverage: Large Language Model-Driven Hardware Coverage Generation
 
 **A comprehensive framework that leverages Large Language Models (LLMs) to automatically generate test stimuli for achieving functional coverage in hardware verification. This project is tested on multiple Design Under Test (DUT) configurations and provides an intelligent, iterative approach to coverage-driven verification.**
