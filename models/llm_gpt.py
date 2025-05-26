@@ -1,7 +1,3 @@
-# Copyright Zixi Zhang
-# Licensed under the Apache License, Version 2.0, see LICENSE for details.
-# SPDX-License-Identifier: Apache-2.0
-
 import random
 import time
 
